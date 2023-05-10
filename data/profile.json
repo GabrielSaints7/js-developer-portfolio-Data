@@ -68,13 +68,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desafio - Pagina Inicial Instagram - CSS",
+      "url": "https://gabrielsaints7.github.io/instagram-login-interface-with-upgrades/",
       "github": true
     },
     {
       "name": "Desafio Pokedex - JAVASCRIPT",
       "url": "https://github.com/GabrielSaints7/Desafio-Pokedex",
+      "github": true
+    },
+    {
+      "name": "Projeto - Recriando Layout Netflix",
+      "url": "https://github.com/GabrielSaints7/Projeto-Recriando-Layout-Netflix",
       "github": true
     }
   ],
