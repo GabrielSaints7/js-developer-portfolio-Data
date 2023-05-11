@@ -66,6 +66,30 @@
     "Espanhol (Avançado)",
     "Italiano (iniciante)"
   ],
+  "education": [
+    {
+      "course": "Análise e Desenvolvimento de Sistemas",
+      "institution": "Faculdade Martha Falcão - Wyden",
+      "period": "5º periodo"
+    }
+  ],
+  "certification": [
+    {
+      "course": "Analista de Dados",
+      "institution": "Google",
+      "period": "2023/1"
+    },
+    {
+      "course": "JavaScript Professional",
+      "institution": "JS Institute",
+      "period": "A realizar"
+    },
+    {
+      "course": "Python Professional",
+      "institution": "Python Institute",
+      "period": "A realizar"
+    }
+  ],
   "portfolio": [
     {
       "name": "Desafio - Pagina Inicial Instagram - CSS",
