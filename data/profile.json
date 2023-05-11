@@ -109,19 +109,19 @@
   ],
   "experience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "GS Publicidades",
+      "period": "2020 - até o momento",
+      "description": "Desenvolvendo aplicações de Software e Design por meio das ferramentas mais atuais do mercado. "
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Freelancer.com",
+      "period": "2020 - 2022",
+      "description": "Criação de Software, Concepção de Design e tradução de Documentos, com foco no atendimento do cliente e qualidade do serviço"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Git SCM",
+      "period": "2019 - 2021",
+      "description": "Cooperação de desenvolvimento de documentação e tradução do projeto para os idiomas (Português-BR e Espanhol)"
     }
   ]
 }
